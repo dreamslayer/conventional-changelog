@@ -35,11 +35,11 @@ BREAKING CHANGE: Pen now uses blue ink instead of red.
 
 To migrate, change your code from the following:
 
-`pen.draw('blue')`
+`pen.draw('red')`
 
 To:
 
-`pen.draw('red')`
+`pen.draw('blue')`
 ```
 
 Any line of the commit message cannot be longer 100 characters! This allows the message to be easier
